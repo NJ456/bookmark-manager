@@ -5,6 +5,10 @@ As a user
 So that I can see bookmarks
 I would like to be able to view a list of bookmarks.
 
+As a user
+So that I can save website links
+I would like to add bookmarks
+
 
 nouns | property or owner of property
 ----- | -----------------------------
